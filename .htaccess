@@ -1,0 +1,43 @@
+RewriteEngine On
+RewriteBase /
+Options +FollowSymlinks
+
+<IfModule mod_headers.c>
+Header always set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+<IfModule mod_headers.c>
+Header always set X-Content-Type-Options "nosniff"
+</IfModule>
+
+#Pas de .php obligatoire
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
+
+#Rewriting url produit
+RewriteRule ^produit/(.+)/ prod.php?id=$1 [L]
+RewriteRule ^produit/(.+) prod.php?id=$1 [L]
+
+#Rewriting url famille
+RewriteRule ^(.+).html produits.php?cat=$1 [L]
+
+#Rewriting url page des actus
+RewriteRule ^actualites/page/(.+)/$ actu.php?page=$1  [L]
+RewriteRule ^actualites/page/(.+)$ actu.php?page=$1  [L]
+
+#Rewriting url actu fiche
+RewriteRule ^actualites/(.+)/$ actualite.php?id=$1 [L]
+RewriteRule ^actualites/(.+)$ actualite.php?id=$1 [L]
+
+#Rewriting url actus
+RewriteRule ^actualites/$ actu.php [L]
+RewriteRule ^actualites$ actu.php [L]
+
+#Rewriting url page des categories des actus
+RewriteRule ^category/(.+)/page/(.+)/$ actu.php?cat=$1&page=$2  [L]
+RewriteRule ^category/(.+)/page/(.+)$ actu.php?cat=$1&page=$2  [L]
+
+#Rewriting url categories actus
+RewriteRule ^category/(.+)/$ actu.php?cat=$1 [L]
+RewriteRule ^category/(.+)$ actu.php?cat=$1 [L]

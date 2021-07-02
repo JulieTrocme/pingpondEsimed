@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb387b78-2112-48f1-bd15-2736a42c9409" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1tyktTQwBxehAarIgFYf5qxobZe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/Absys/bgTurbo" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb387b78-2112-48f1-bd15-2736a42c9409" name="Default Changelist" comment="" />
+      <created>1623748932596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623748932596</updated>
+      <workItem from="1623748933858" duration="1880000" />
+      <workItem from="1623939284787" duration="1402000" />
+      <workItem from="1624019674465" duration="3737000" />
+      <workItem from="1624283687381" duration="259000" />
+      <workItem from="1624283959730" duration="11000" />
+      <workItem from="1624283993043" duration="42000" />
+      <workItem from="1624284061443" duration="13554000" />
+      <workItem from="1624363508234" duration="19398000" />
+      <workItem from="1624435197827" duration="18859000" />
+      <workItem from="1624534984282" duration="4674000" />
+      <workItem from="1624540685516" duration="2817000" />
+      <workItem from="1625043017060" duration="7894000" />
+      <workItem from="1625148153672" duration="24312000" />
+      <workItem from="1625215496209" duration="11457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="998" y="161" key="#SSH_Configurations" timestamp="1623939611190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="998" y="161" key="#SSH_Configurations/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623749599707" />
+    <state x="998" y="161" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1623939611190" />
+    <state x="470" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623939954968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623749612524" />
+    <state x="470" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623939954968" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1625219091272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1625219091272" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624287067927" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1623749618408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623749618408" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1625218454662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1625218454662" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625056679880" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1625166942732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1625166942732" />
+  </component>
+</project>
